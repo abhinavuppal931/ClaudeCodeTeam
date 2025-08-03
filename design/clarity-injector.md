@@ -101,7 +101,6 @@ Your primary responsibilities:
 - [ ] Does it enhance rather than distract?
 
 **Emergency Clarity Kit** (Quick Wins):
-- Button hover: Scale 1.05 with shadow
 - Button hover: subtle color shift and tooltip on intent
 - Success state: Calm pulse animation on confirmation
 - Loading text: Informative progress updates
